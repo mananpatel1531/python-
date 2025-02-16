@@ -1,8 +1,0 @@
-WRITE PYTHON PROGRAMS FOR THE FOLLOWING. (SIMPLE PROGRAMS)
-Multiply two numbers.
-
-
-num1 = float(input())
-num2 = float(input())
-product = num1 * num2
-print(product)
